@@ -5,7 +5,7 @@ Objective: Build a basic calculator that can perform simple arithmetic operation
 Structure
 HTML: This will define the structure of your calculator.
 
-Use a <div> to create the calculator container.
+Use a "<div>" to create the calculator container.
 Include buttons for digits (0-9) and operations (+, -, *, /).
 Add a display area (like an <input> or <div>) to show the current input and results.
 CSS: Style your calculator to make it visually appealing.
