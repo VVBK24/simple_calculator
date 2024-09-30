@@ -1,6 +1,8 @@
 # simple_calculator
 Project Overview
 Objective: Build a basic calculator that can perform simple arithmetic operations (addition, subtraction, multiplication, and division).
+#DEMO
+https://vvbk24.github.io/simple_calculator/
 
 Structure
 HTML: This will define the structure of your calculator.
