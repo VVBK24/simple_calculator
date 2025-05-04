@@ -18,3 +18,5 @@ JavaScript: This will add functionality to your calculator.
 Write functions to handle button clicks and perform calculations.
 Update the display with the current input and results.
 Ensure proper handling of edge cases (like division by zero).
+
+Made with Love ❤️
