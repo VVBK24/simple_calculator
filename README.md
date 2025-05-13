@@ -1,22 +1,82 @@
-# simple_calculator
-Project Overview
-Objective: Build a basic calculator that can perform simple arithmetic operations (addition, subtraction, multiplication, and division).
-#DEMO
-https://vvbk24.github.io/simple_calculator/
+# 🧮 Simple Calculator
 
-Structure
-HTML: This will define the structure of your calculator.
-Include buttons for digits (0-9) and operations (+, -, *, /).
-Add a display area (like an <input> or <div>) to show the current input and results.
+A basic calculator web app that performs simple arithmetic operations — **Addition**, **Subtraction**, **Multiplication**, and **Division** — using HTML, CSS, and JavaScript.
 
-CSS: Style your calculator to make it visually appealing.
-Set a background color for the calculator.
-Style the buttons with padding, margins, and hover effects.
-Use a grid or flexbox layout to arrange the buttons.
+> 🔗 **[Live Demo](https://vvbk24.github.io/simple_calculator/)**
 
-JavaScript: This will add functionality to your calculator.
-Write functions to handle button clicks and perform calculations.
-Update the display with the current input and results.
-Ensure proper handling of edge cases (like division by zero).
+---
 
-Made with ❤️
+## 📌 Project Overview
+
+**Objective:**  
+To build a responsive and user-friendly calculator that allows users to perform basic math operations in the browser.
+
+---
+
+## 🏗️ Project Structure
+
+### 🔤 HTML
+- Defines the layout of the calculator.
+- Includes:
+  - Buttons for digits (`0-9`)
+  - Buttons for operations (`+`, `-`, `×`, `÷`)
+  - A display area to show the current input and calculation results.
+
+### 🎨 CSS
+- Styles the calculator for a clean and modern look.
+- Features:
+  - Background color and padding
+  - Styled buttons with margins and hover effects
+  - Responsive layout using **Grid** or **Flexbox** for arranging the buttons
+
+### ⚙️ JavaScript
+- Adds interactivity and logic to the calculator.
+- Handles:
+  - Button click events
+  - Dynamic display updates
+  - Arithmetic operation execution
+  - Edge cases (e.g., division by zero)
+
+---
+
+## 📸 Screenshot
+
+> *(Add a screenshot here if you like, using: `![screenshot](path/to/image.png)`)*
+
+---
+
+## ✅ Features
+
+- Real-time input and output
+- Clear and Reset functionality
+- Handles chained operations
+- Prevents invalid inputs (e.g., division by 0)
+
+---
+
+## 💡 How to Use
+
+1. Click on the number and operator buttons to enter an expression.
+2. Press `=` to get the result.
+3. Use `C` or `AC` to clear the display.
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## ❤️ Made With
+
+Made with ❤️ by [@vvbk24](https://github.com/vvbk24)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
