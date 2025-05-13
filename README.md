@@ -39,12 +39,6 @@ To build a responsive and user-friendly calculator that allows users to perform 
 
 ---
 
-## 📸 Screenshot
-
-> *(Add a screenshot here if you like, using: `![screenshot](path/to/image.png)`)*
-
----
-
 ## ✅ Features
 
 - Real-time input and output
